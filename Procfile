@@ -1,1 +1,1 @@
-web: gunicorn hackathon_acm2026:app
+web: gunicorn --bind 0.0.0.0:$PORT hackathon_acm2026:app
