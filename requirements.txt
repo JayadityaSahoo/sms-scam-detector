@@ -6,3 +6,4 @@ transformers
 sentence-transformers
 scikit-learn
 torch
+gunicorn
